@@ -11,7 +11,15 @@ author_profile: true
 
 ### Executive:
 
+- EE 953, Effective Asset Management
+
+- EE 952, Finance for Executives
+
 ### Postgraduate:
+
+- FM414E, Private Equity, Venture Capital and Entrepreneurial Finance
+
+- FM414, Corporate Investment and Financial Policy
 
 ### Undergraduate:
 
@@ -21,5 +29,11 @@ author_profile: true
 - MA100, Mathematical Methods
 
 ## Others
+
+- HEC Executive Master in Finance, Asset Management
+
+# Teaching Awards
+
+- LSESU Teaching Award for Sharing Subject Knowledge x 2
 
 
