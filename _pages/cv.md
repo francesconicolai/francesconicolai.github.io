@@ -6,4 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[CV](https://francesconicolai.github.io/_files/CV/CVFrancesco-Nicolai.pdf)
+
+{% include base_path %}
+
+Download: [PDF](https://francesconicolai.github.io/CV/CVFrancesco-Nicolai.pdf)
+
