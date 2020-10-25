@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
+{% include base_path %}
 # Job Market Paper
 [Contagion in The Market for Leveraged Loans](https://francesconicolai.github.io/files/papers/CLOs.pdf)
 
