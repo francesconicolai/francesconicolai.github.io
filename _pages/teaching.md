@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 {% include base_path %}
+
+
 # Teaching Experience
 ## London School of Economics
 ### Executive:
