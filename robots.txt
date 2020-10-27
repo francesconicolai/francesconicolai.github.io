@@ -1438,30 +1438,6 @@ Disallow: /q/*/submissions
 Disallow: /profile/*/Rss
 Disallow: /topic/*/Rss
 
-# People share a lot of sensitive material on Quora - controversial political
-# views, workplace gossip and compensation, and negative opinions held of
-# companies. Over many years, as they change jobs or change their views, it is
-# important that they can delete or anonymize their previously-written answers.
-# 
-# We opt out of the wayback machine because inclusion would allow people to
-# discover the identity of authors who had written sensitive answers publicly and
-# later had made them anonymous, and because it would prevent authors from being
-# able to remove their content from the internet if they change their mind about
-# publishing it. As far as we can tell, there is no way for sites to selectively
-# programmatically remove content from the archive and so this is the only way
-# for us to protect writers. If they open up an API where we can remove content
-# from the archive when authors remove it from Quora, but leave the rest of the
-# content archived, we would be happy to opt back in. See the page here:
-# 
-# https://archive.org/about/exclude.php
-# 
-# Meanwhile, if you are looking for an older version of any content on Quora, we
-# have full edit history tracked and accessible in product (with the exception of
-# content that has been removed by the author). You can generally access this by
-# clicking on timestamps, or by appending "/log" to the URL of any content page.
-# 
-# For any questions or feedback about this please visit our contact page
-# https://help.quora.com/hc/en-us/requests/new
 
 User-agent: ia_archiver
 Disallow: /
