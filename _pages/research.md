@@ -13,7 +13,7 @@ Collateralized Loan Obligations (CLOs) spread shocks in the market for leveraged
 [Appendix](https://francesconicolai.github.io/papers/CLOApp.pdf)
 
 ## Working Papers
-### [Revealed Expectations and Learning Biases: Evidence from the Mutual Fund Industry](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301279)
+### __[Revealed Expectations and Learning Biases: Evidence from the Mutual Fund Industry](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301279)__
 
 (with [Simona Risteska](https://risteskasimona.github.io)) 
 
