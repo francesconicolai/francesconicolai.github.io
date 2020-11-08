@@ -6,11 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 ## Job Market Paper
-### [Contagion in The Market for Leveraged Loans](https://francesconicolai.github.io/papers/CLO.pdf)
+### [Contagion in The Market for Leveraged Loans](https://francesconicolai.github.io/papers/JMP.pdf)
 
 Collateralized Loan Obligations (CLOs) spread shocks in the market for leveraged loans. I document that, in order to satisfy constraints based on the par value of their assets, CLOs become forced sellers of high quality securities when hit by negative shocks to otherwise unrelated securities. Loans sold for non fundamental reasons trade at depressed prices for up to nine months after the shock. The effect cannot be explained by selection on ex-ante or ex-post loan characteristics. A large fraction of the dislocation in secondary markets is transmitted to the market of issuance: shocked companies due to refinance their loans substitute away from institutional tranches towards other types of securities. The substitution is imperfect causing an increase in the cost of borrowing.
 
-[Appendix](https://francesconicolai.github.io/papers/CLOApp.pdf)
+[Appendix](https://francesconicolai.github.io/papers/JMP_Appendix.pdf)
 
 ## Working Papers
 ### __[Revealed Expectations and Learning Biases: Evidence from the Mutual Fund Industry](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301279)__
