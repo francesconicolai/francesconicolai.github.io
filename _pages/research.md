@@ -19,6 +19,7 @@ Collateralized Loan Obligations (CLOs) spread shocks in the market for leveraged
 <div style="text-align: justify">
 By inverting the optimal portfolios of mutual fund managers in a fairly general setting, which allows us to partial out the effect of risk aversion and hedging demands, we provide an estimate of perceived expected excess returns and show that they are significantly affected by experienced returns. The effect of past returns is non-monotone: we provide reduced-form and structural evidence of managers displaying recency and primacy bias. Finally, we estimate an average coefficient of relative risk aversion close to unity.</div>
 
+## Work in Progress
 ### [Living on the Edge: the Salience of Property Taxes in the UK Housing Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381519)
 
 (with [Marco Pelosi](https://marcopelosi.github.io/) and [Simona Risteska](https://risteskasimona.github.io)) 
