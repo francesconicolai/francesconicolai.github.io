@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Francesco Nicolai"
 title_separator          : "-"
 name                     : &name "Francesco Nicolai"
-description              : &description "Ph.D. Candidate in Finance"
+description              : &description "Assistant Professor in Finance"
 url                      : https://francesconicolai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "francesconicolai/francesconicolai.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Francesco Nicolai"
   avatar           : "francesco1.jpg"
-  bio              : "Ph.D. Candidate in Finance"
-  location         : "London, UK"
+  bio              : "Assistant Professor in Finance"
+  location         : "Oslo, NO"
   employer         : #"London School of Economics"
   googlescholar    : 
-  email            : f.nicolai@lse.ac.uk 
+  email            : francesco.nicolai@bi.no
   uri              :
   bitbucket        :
   codepen          :
