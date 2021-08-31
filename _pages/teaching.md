@@ -10,7 +10,4 @@ author_profile: true
 - GRA6291, Mergers and Acquisitions
 - GRA6540, Applied Finance
 
-## Teaching Awards
-- LSESU Teaching Award for Sharing Subject Knowledge x 2
-
 
