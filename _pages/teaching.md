@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## Teaching Experience
+### BI Norwegian Business School
+#### Postgraduate:
+- GRA6291, Mergers and Acquisitions
+- GRA6540, Applied Finance
+
 ### London School of Economics
 #### Executive:
 - EE 953, Effective Asset Management
@@ -14,6 +19,7 @@ author_profile: true
 #### Postgraduate:
 - FM414E, Private Equity, Venture Capital and Entrepreneurial Finance
 - FM414, Corporate Investment and Financial Policy
+- FM410, Private Equity
 
 #### Undergraduate:
 - FM300, Corporate Finance, Investments and Financial Markets
