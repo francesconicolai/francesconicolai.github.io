@@ -36,3 +36,7 @@ Taxes that happen concurrently with the purchase are more salient than deferred 
 
 (with [Simona Risteska](https://risteskasimona.github.io)) 
 
+### [Explaining Search Patterns in the Residential Housing Market](https://francesconicolai.github.io/research/)
+
+(with [Simona Risteska](https://risteskasimona.github.io)) 
+
