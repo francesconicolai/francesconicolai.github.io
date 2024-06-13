@@ -9,5 +9,6 @@ author_profile: true
 ### BI Norwegian Business School
 - GRA6291, Mergers and Acquisitions
 - GRA6540, Applied Finance
+- GRA6292, International Corporate Finance
 
 
