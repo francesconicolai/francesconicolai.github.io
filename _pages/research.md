@@ -13,7 +13,7 @@ author_profile: true
 <div style="text-align: justify">
 By inverting the optimal portfolios of mutual fund managers in a fairly general setting, which allows us to partial out the effect of risk aversion and hedging demands, we provide an estimate of perceived expected excess returns and show that they are significantly affected by experienced returns. The effect of past returns is non-monotone: we provide reduced-form and structural evidence of managers displaying recency and primacy bias. Finally, we estimate an average coefficient of relative risk aversion close to unity.</div>
 
-### [Contagion in The Market for Leveraged Loans](https://francesconicolai.github.io/papers/JMP.pdf)
+### [Job Market Paper: Contagion in The Market for Leveraged Loans](https://francesconicolai.github.io/papers/JMP.pdf)
 <div style="text-align: justify">
 Collateralized Loan Obligations (CLOs) spread shocks in the market for leveraged loans. I document that, in order to satisfy constraints based on the par value of their assets, CLOs become forced sellers of high quality securities when hit by negative shocks to otherwise unrelated securities. Loans sold for non fundamental reasons trade at depressed prices for up to nine months after the shock. The effect cannot be explained by selection on ex-ante or ex-post loan characteristics. A large fraction of the dislocation in secondary markets is transmitted to the market of issuance: shocked companies due to refinance their loans substitute away from institutional tranches towards other types of securities. The substitution is imperfect causing an increase in the cost of borrowing.</div>
 
