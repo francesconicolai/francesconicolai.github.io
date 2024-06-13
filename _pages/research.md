@@ -25,3 +25,12 @@ Collateralized Loan Obligations (CLOs) spread shocks in the market for leveraged
 (with [Marco Pelosi](https://marcopelosi.github.io/) and [Simona Risteska](https://risteskasimona.github.io)) 
 <div style="text-align: justify">
 Taxes that happen concurrently with the purchase are more salient than deferred taxes. Using a sharp geographical discontinuity between London Boroughs, we show that the incidence of property taxes deferred to the future is too small compared to the incidence of stamp duty taxes happening at the moment of buying the property. The difference in incidence implies very large discount rates that cannot be easily rationalized even after accounting for liquidity constraints. The lack of salience at the moment of purchase implies that the burden of the tax will be borne in the future to meet the budget constraint. This implies that there is an optimal tax mix, even though one of the two taxes is more distortionary than the other.</div>
+
+### [Biased Beliefs and Institutional Herding](https://francesconicolai.github.io/research/)
+
+(with [Simona Risteska](https://risteskasimona.github.io)) 
+
+### [What Explains Portfolio Concentration?](https://francesconicolai.github.io/research/)
+
+(with [Simona Risteska](https://risteskasimona.github.io)) 
+
