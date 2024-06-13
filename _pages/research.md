@@ -20,15 +20,17 @@ Collateralized Loan Obligations (CLOs) spread shocks in the market for leveraged
 [Appendix](https://francesconicolai.github.io/papers/JMP_Appendix.pdf)
 
 ## Work in Progress
+### [Biased Beliefs and Institutional Herding](https://francesconicolai.github.io/research/)
+
+(with [Simona Risteska](https://risteskasimona.github.io)) 
+<div style="text-align: justify">
+Understanding the determinants of herding behaviour is challenging due to the difficulty in measuring investor beliefs and preferences. This paper addresses this challenge by exploring the dynamics of investor behaviour within the leveraged loan market. Our major findings reveal that herding among institutional investors in this market is driven by incorrect beliefs about their peers' actions rather than unobservable asset characteristics or positive spillovers across investors. Using a structural model of entry, along with exclusion restrictions and instrumental variables, we assess the accuracy of investor beliefs regarding their peers' investment decisions. Our findings refute the hypothesis of unbiased beliefs, indicating that herding is driven by investors' incorrect assumptions about peer behaviour. Additionally, we recover the out-of-equilibrium beliefs of investors, providing insights into the determinants of their investment choices. These insights have significant implications for understanding market dynamics and quantifying the effect of herding on asset prices.</div>
+
 ### [Living on the Edge: the Salience of Property Taxes in the UK Housing Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381519)
 
 (with [Marco Pelosi](https://marcopelosi.github.io/) and [Simona Risteska](https://risteskasimona.github.io)) 
 <div style="text-align: justify">
 Taxes that happen concurrently with the purchase are more salient than deferred taxes. Using a sharp geographical discontinuity between London Boroughs, we show that the incidence of property taxes deferred to the future is too small compared to the incidence of stamp duty taxes happening at the moment of buying the property. The difference in incidence implies very large discount rates that cannot be easily rationalized even after accounting for liquidity constraints. The lack of salience at the moment of purchase implies that the burden of the tax will be borne in the future to meet the budget constraint. This implies that there is an optimal tax mix, even though one of the two taxes is more distortionary than the other.</div>
-
-### [Biased Beliefs and Institutional Herding](https://francesconicolai.github.io/research/)
-
-(with [Simona Risteska](https://risteskasimona.github.io)) 
 
 ### [What Explains Portfolio Concentration?](https://francesconicolai.github.io/research/)
 
