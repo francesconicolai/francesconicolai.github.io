@@ -40,3 +40,5 @@ Taxes that happen concurrently with the purchase are more salient than deferred 
 
 (with [Simona Risteska](https://risteskasimona.github.io)) 
 
+### [Securitization as a Means to Overcome Adverse Selection](https://francesconicolai.github.io/research/)
+
