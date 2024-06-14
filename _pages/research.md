@@ -26,6 +26,10 @@ Collateralized Loan Obligations (CLOs) spread shocks in the market for leveraged
 <div style="text-align: justify">
 Understanding the determinants of herding behaviour is challenging due to the difficulty in measuring investor beliefs and preferences. This paper addresses this challenge by exploring the dynamics of investor behaviour within the leveraged loan market. Our major findings reveal that herding among institutional investors in this market is driven by incorrect beliefs about their peers' actions rather than unobservable asset characteristics or positive spillovers across investors. Using a structural model of entry, along with exclusion restrictions and instrumental variables, we assess the accuracy of investor beliefs regarding their peers' investment decisions. Our findings refute the hypothesis of unbiased beliefs, indicating that herding is driven by investors' incorrect assumptions about peer behaviour. Additionally, we recover the out-of-equilibrium beliefs of investors, providing insights into the determinants of their investment choices. These insights have significant implications for understanding market dynamics and quantifying the effect of herding on asset prices.</div>
 
+### [Securitization as a Means to Overcome Adverse Selection](https://francesconicolai.github.io/research/)
+
+In this paper, I explore the behavior of informed issuers in the sale of loans to investors. Existing theories suggest that issuers can securitize loans to benefit from diversification. However, a puzzling observation remains: securitized loan pools consistently comprise similar types of loans, reducing the diversification benefits that could be achieved by pooling disparate loans. I show that to overcome adverse selection, it is optimal for issuers to pool homogeneous loans. By analyzing this problem, the paper provides a deeper understanding of the practical structuring of securitized loan pools, addressing a critical gap in the existing literature on financial intermediation and securitization.
+
 ### [Living on the Edge: the Salience of Property Taxes in the UK Housing Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381519)
 
 (with [Marco Pelosi](https://marcopelosi.github.io/) and [Simona Risteska](https://risteskasimona.github.io)) 
@@ -39,6 +43,4 @@ Taxes that happen concurrently with the purchase are more salient than deferred 
 ### [Explaining Search Patterns in the Residential Housing Market](https://francesconicolai.github.io/research/)
 
 (with [Simona Risteska](https://risteskasimona.github.io)) 
-
-### [Securitization as a Means to Overcome Adverse Selection](https://francesconicolai.github.io/research/)
 
