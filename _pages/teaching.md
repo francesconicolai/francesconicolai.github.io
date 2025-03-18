@@ -11,4 +11,7 @@ author_profile: true
 - GRA6540, Applied Finance
 - GRA6292, International Corporate Finance
 
+### London School of Economics and Political Science
+- FM445, Portfolio Management
+
 
