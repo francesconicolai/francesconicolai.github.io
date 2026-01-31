@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 I am an Assistant Professor in Finance at BI Norwegian Business School in Oslo.
 
-**Research Interests:** Asset Pricing, Behavioural Finance, Financial Intermediation and Public Finance. 
+**Research Interests:** Asset Pricing, Behavioural Finance, Financial Intermediation, Market Microstructure and Public Finance. 
