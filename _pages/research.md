@@ -7,6 +7,16 @@ author_profile: true
 {% include base_path %}
 
 ## Working Papers
+### [Dynamic Arbitrage from Price-Based Risk Constraints](https://francesconicolai.github.io/papers)
+
+<div style="text-align: justify">
+Price-based risk constraints set margin, leverage, or exposure from sampled transaction prices, as in initial-margin and haircut schedules, VaR and drawdown limits, and target-volatility risk-control overlays. Because these rules generate deterministic feedback from transaction prices to future feasibility, a trader can profit from trigger-and-reverse round trips even when the underlying impact model satisfies standard no-price-manipulation (no-dynamic-arbitrage) conditions. Trading inside the sampling window moves the measured statistic, tightens the rule near binding, induces mechanical deleveraging, and the trader unwinds into the predictable flow. We derive a sharp local no-arbitrage condition that screens out such round trips. The test is implementable from public rulebooks and standard liquidity inputs: impact, the statistic's sensitivity to transaction prices, pass-through into required rebalancing near binding, and implementation timing. It yields a liquidity-scaled capacity bound $W_{\max}$ and vulnerability curves. In multi-asset settings with portfolio marking, the most profitable round trip trades only two portfolios: the marked portfolio and the constrained sector's liquidation portfolio. Applied to volatility-controlled and volatility-managed indices used in structured products and indexed annuities, the conservative bound is typically below one day of average daily volume (ADV), and vulnerability rises sharply once aggregate rebalancing reaches roughly one to two days of volume. The diagnostic is an ex ante rulebook stress test that informs capacity limits and implementation choices.</div>
+
+### [An Impossibility Theorem for Price-Based Risk Constraints](https://francesconicolai.github.io/papers)
+
+<div style="text-align: justify">
+When margins are updated mechanically from transaction-based risk measures, transaction prices become inputs to constraints, and no price-based, risk-sensitive margin update can jointly satisfy three properties often imposed separately in collateral design: (i) risk sensitivity, (ii) liquidity continuity, and (iii) round-trip manipulation-proofness. An arbitrarily small trade that nudges a sampled mark shifts measured risk, raises the call, triggers predictable forced selling, and can be profitably reversed; with portfolio margins, the same tension propagates through cross-impact and risk aggregation. We prove a constructive local impossibility result for a class of price-based constraints: it requires neither large trades nor large price moves, and it does not rely on turning a slack margin requirement into a binding one. Constrained investors may anticipate manipulation. Continuous trading between discrete updates is allowed. The proof yields a sharp diagnostic. Profitability is governed by a local amplification factor, the product of pass-through from sampled prices to the risk statistic, from the statistic to posted margin, from margin calls to forced sales, and from forced sales back to prices via impact. This amplification is an interpretable magnitude screen: when it is high, rule-induced fire-sale pressure from a small mark distortion outweighs the round-trip trader's own impact costs. As a design implication, the diagnostic implies an effective cap on short-horizon pass-through and rationalizes anti-procyclicality tools, including limited pass-through, smoothing, and state-contingent buffers.</div>
+
 ### [Biased Beliefs and Institutional Overcrowding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024961)
 
 (with [Simona Risteska](https://risteskasimona.github.io)) 
@@ -26,10 +36,6 @@ Collateralized Loan Obligations (CLOs) spread shocks in the market for leveraged
 [Appendix](https://francesconicolai.github.io/papers/JMP_Appendix.pdf)
 
 ## Work in Progress
-### [Securitization as a Means to Overcome Adverse Selection](https://francesconicolai.github.io/research/)
-
-In this paper, I explore the behavior of informed issuers in the sale of loans to investors. Existing theories suggest that issuers can securitize loans to benefit from diversification. However, a puzzling observation remains: securitized loan pools consistently comprise similar types of loans, reducing the diversification benefits that could be achieved by pooling disparate loans. I show that to overcome adverse selection, it is optimal for issuers to pool homogeneous loans. By analyzing this problem, the paper provides a deeper understanding of the practical structuring of securitized loan pools, addressing a critical gap in the existing literature on financial intermediation and securitization.
-
 ### [Living on the Edge: the Salience of Property Taxes in the UK Housing Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381519)
 
 (with [Marco Pelosi](https://marcopelosi.github.io/) and [Simona Risteska](https://risteskasimona.github.io)) 
