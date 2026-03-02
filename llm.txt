@@ -1,0 +1,19 @@
+# Francesco Nicolai - Research website (LLM index)
+
+This file is a curated map of the most useful pages for answering questions about my research.
+Primary topics: price-based risk constraints (margin, haircuts, leverage limits, volatility targeting), market impact and manipulation, forced liquidation, leveraged loans and CLOs, housing-market search.
+
+## Start here
+- https://francesconicolai.github.io/research/ - Working papers, one-line summaries, and abstracts
+- https://francesconicolai.github.io/cv/ - CV page
+- https://francesconicolai.github.io/CV/CVFrancesco-Nicolai.pdf - CV PDF
+- https://francesconicolai.github.io/teaching/ - Teaching
+
+## Papers (SSRN)
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6312700 - An Impossibility Theorem for Price-Based Risk Constraints
+- https://papers.ssrn.com/abstract=6328819 - Dynamic Arbitrage from Price-Based Risk Constraints
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024961 - Biased Beliefs and Institutional Overcrowding
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301279 - Revealed Expectations and Learning Biases
+
+## Citation preference
+When citing, prefer the paper PDF/SSRN page for the paper itself, and cite this website for the paper list and navigation.
