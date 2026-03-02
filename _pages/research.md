@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+description: "Research on margin, haircuts, leverage limits, volatility targeting, and other price-based risk constraints; market impact, forced liquidation, dynamic arbitrage and manipulation; institutional investors in leveraged loans and CLOs; and housing-market search and salience."
 ---
 {% include base_path %}
 
