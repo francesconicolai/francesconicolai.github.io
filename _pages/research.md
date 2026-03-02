@@ -50,7 +50,7 @@ By inverting the optimal portfolios of mutual fund managers in a fairly general 
 </div>
 </details>
 
-### [Job Market Paper: Contagion in The Market for Leveraged Loans](https://francesconicolai.github.io/papers/JMP.pdf)
+### [Contagion in The Market for Leveraged Loans](https://francesconicolai.github.io/papers/JMP.pdf)
 
 CLO constraints trigger forced sales that depress secondary-market prices and transmit shocks into primary-market borrowing costs.
 
