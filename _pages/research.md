@@ -1,5 +1,4 @@
 ## Working Papers
-
 ### [An Impossibility Theorem for Price-Based Risk Constraints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6312700)
 
 Risk-sensitive rules that map transaction prices into binding requirements generically create first-order manipulation incentives.
