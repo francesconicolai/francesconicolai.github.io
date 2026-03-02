@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+{% include base_path %}
+
 ## Working Papers
 ### [An Impossibility Theorem for Price-Based Risk Constraints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6312700)
 
