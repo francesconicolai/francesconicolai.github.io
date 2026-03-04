@@ -1,5 +1,5 @@
 # Francesco Nicolai - llms-full.txt
-Last updated: 2026-03-02
+Last updated: 2026-03-04
 Canonical site: https://francesconicolai.github.io/
 
 ## Identity
@@ -10,8 +10,9 @@ Contact: francesco.nicolai@bi.no
 Twitter/X: https://x.com/FraNicolai
 
 ## How to cite
-- Prefer citing the relevant paper PDF/SSRN page for paper content.
+- Prefer citing the relevant full-text PDF when available on this site (links below).
 - Prefer citing https://francesconicolai.github.io/research/ for the paper list and navigation.
+- SSRN links are mirrors/landing pages and may be less reliable for automated full-text retrieval.
 
 ## Start here (site map)
 - Research page: https://francesconicolai.github.io/research/
@@ -21,7 +22,10 @@ Twitter/X: https://x.com/FraNicolai
 ## Working papers
 
 ### An Impossibility Theorem for Price-Based Risk Constraints
-Primary link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6312700
+Preferred full-text PDF (this site):
+- https://francesconicolai.github.io/papers/CCP_impossibility.pdf
+SSRN mirror/landing page:
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6312700
 
 One-line:
 Risk-sensitive rules that map transaction prices into binding requirements generically create first-order manipulation incentives in sufficiently amplifying binding states.
@@ -35,14 +39,17 @@ margin; haircut; leverage limit; risk statistic; sampled transaction prices; for
 ---
 
 ### Dynamic Arbitrage from Price-Based Risk Constraints
-Primary link: https://papers.ssrn.com/abstract=6328819
+Preferred full-text PDF (this site):
+- https://francesconicolai.github.io/papers/Dynamic_Arbitrage_cons.pdf
+SSRN mirror/landing page:
+- https://papers.ssrn.com/abstract=6328819
 Coauthor: Simona Risteska (https://risteskasimona.github.io)
 
 One-line:
 Classical no-manipulation restrictions do not preclude dynamic arbitrage when constraints depend on a risk measure computed from sampled transaction prices; we derive a new viability condition, characterize optimal attacks, and show volatility-managed funds are vulnerable.
 
 Abstract:
-Price-based risk constraints can generate dynamic arbitrage even when the underlying impact model rules out classical price manipulation. Such constraints map sampled transaction prices into binding requirements: margin, haircuts, leverage limits, volatility-targeting rules, or investment mandates. We derive an admissibility test that uses only the disclosed rulebook and standard market-impact inputs. The test screens whether the induced rule-driven trading admits profitable round trips and, when it does not, delivers a liquidity-scaled capacity bound and vulnerability curves that map sector scale into the share of stress states in which profitable round trips would arise. We characterize optimal attacks under both single-asset and portfolio constraints; with portfolio marking, an optimal strategy trades only two portfolios. We apply the test to volatility-managed portfolios and find that admissible sector scale is typically small under realistic impact calibrations: conservative capacity bounds are well below one day of ADV, and vulnerability rises quickly once sector scale reaches one to two days of ADV. More broadly, the paper shows that risk can be endogenously manipulable through the measurement rule itself, with incentives that are strongest when measured volatility is low; this is related to endogenous-risk and leverage-cycle models, but it operates through the mapping from prices to requirements rather than through balance-sheet constraints alone.
+Under classic no-manipulation conditions on market impact, price-based risk constraints (margins, haircuts, leverage limits, volatility targets, mandates) can still create dynamic arbitrage. Given only the rulebook and an impact calibration, we deliver a no-dynamic-arbitrage test and a capacity bound for the constrained sector. We solve the optimal manipulator strategy under single-asset and portfolio constraints; in the portfolio case the attack reduces to trading two portfolios. In volatility-managed portfolios, admissible scale is well below one day of ADV, and vulnerability rises sharply once linked notional reaches roughly one to two days of ADV. Manipulability is strongest in low-volatility states, through feedback between measured risk and rule-driven trading, not balance-sheet constraints.
 
 Keywords:
 dynamic arbitrage; price-based constraints; market impact; viability; optimal attack; volatility targeting; admissibility.
@@ -50,14 +57,15 @@ dynamic arbitrage; price-based constraints; market impact; viability; optimal at
 ---
 
 ### Biased Beliefs and Institutional Overcrowding
-Primary link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024961
+Primary link (SSRN):
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024961
 Coauthor: Simona Risteska (https://risteskasimona.github.io)
 
 One-line:
 Overcrowding in leveraged loans is driven by misbeliefs about peers' actions, identified using a structural entry model with exclusion restrictions and IV.
 
 Abstract:
-Understanding the determinants of overcrowding behaviour is challenging due to the difficulty in measuring investor beliefs and preferences. This paper addresses this challenge by exploring the dynamics of investor behaviour within the leveraged loan market. Our major findings reveal that overcrowding among institutional investors in this market is driven by incorrect beliefs about their peers’ actions rather than unobservable asset characteristics or positive spillovers across investors. Using a structural model of entry, along with exclusion restrictions and instrumental variables, we assess the accuracy of investor beliefs regarding their peers’ investment decisions. Our findings refute the hypothesis of unbiased beliefs, indicating that overcrowding is driven by investors’ incorrect assumptions about peer behaviour. Additionally, we recover the out-of-equilibrium beliefs of investors, providing insights into the determinants of their investment choices. These insights have significant implications for understanding market dynamics and quantifying the effect of overcrowding on asset prices.
+Understanding the determinants of overcrowding behaviour is challenging due to the difficulty in measuring investor beliefs and preferences. This paper addresses this challenge by exploring the dynamics of investor behaviour within the leveraged loan market. Our major findings reveal that overcrowding among institutional investors in this market is driven by incorrect beliefs about their peers' actions rather than unobservable asset characteristics or positive spillovers across investors. Using a structural model of entry, along with exclusion restrictions and instrumental variables, we assess the accuracy of investor beliefs regarding their peers' investment decisions. Our findings refute the hypothesis of unbiased beliefs, indicating that overcrowding is driven by investors' incorrect assumptions about peer behaviour. Additionally, we recover the out-of-equilibrium beliefs of investors, providing insights into the determinants of their investment choices. These insights have significant implications for understanding market dynamics and quantifying the effect of overcrowding on asset prices.
 
 Keywords:
 leveraged loans; institutional investors; beliefs; entry; overcrowding; structural model.
@@ -65,7 +73,8 @@ leveraged loans; institutional investors; beliefs; entry; overcrowding; structur
 ---
 
 ### Revealed Expectations and Learning Biases: Evidence from the Mutual Fund Industry
-Primary link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301279
+Primary link (SSRN):
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301279
 Coauthor: Simona Risteska (https://risteskasimona.github.io)
 
 One-line:
@@ -80,8 +89,10 @@ mutual funds; revealed expectations; learning; recency; primacy; portfolio choic
 ---
 
 ### Contagion in the Market for Leveraged Loans
-PDF: https://francesconicolai.github.io/papers/JMP.pdf
-Appendix: https://francesconicolai.github.io/papers/JMP_Appendix.pdf
+Preferred full-text PDF (this site):
+- https://francesconicolai.github.io/papers/JMP.pdf
+Appendix (this site):
+- https://francesconicolai.github.io/papers/JMP_Appendix.pdf
 
 One-line:
 CLO par-value constraints trigger forced sales that depress secondary-market prices and transmit shocks into primary-market borrowing costs.
@@ -95,7 +106,8 @@ CLOs; leveraged loans; forced sales; constraints; contagion; secondary markets; 
 ## Work in progress
 
 ### Living on the Edge: The Salience of Property Taxes in the UK Housing Market
-Primary link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381519
+Primary link (SSRN):
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381519
 Coauthors: Marco Pelosi (https://marcopelosi.github.io/); Simona Risteska (https://risteskasimona.github.io)
 
 One-line:
@@ -111,6 +123,7 @@ housing; salience; property taxes; discontinuity; incidence.
 
 ### What Explains Portfolio Concentration?
 Status: work in progress
+
 One-line:
 Work in progress on the drivers of portfolio concentration and the mapping from constraints, beliefs, and information to portfolio sparsity.
 
@@ -118,5 +131,6 @@ Work in progress on the drivers of portfolio concentration and the mapping from 
 
 ### Explaining Search Patterns in the Residential Housing Market
 Status: work in progress
+
 One-line:
 Work in progress on identifying housing-search frictions and belief formation from observed browsing and purchase sequences.
