@@ -4,18 +4,29 @@ This file is a curated map of the most useful pages for answering questions abou
 Primary topics: price-based risk constraints (margin, haircuts, leverage limits, volatility targeting), market impact and manipulation, forced liquidation, leveraged loans and CLOs, housing-market search.
 
 ## Start here
-- https://francesconicolai.github.io/research/ - Working papers, one-line summaries, and abstracts
-- https://francesconicolai.github.io/cv/ - CV page
-- https://francesconicolai.github.io/CV/CVFrancesco-Nicolai.pdf - CV PDF
-- https://francesconicolai.github.io/teaching/ - Teaching
+- https://francesconicolai.github.io/research/  - Working papers, one-line summaries, and abstracts
+- https://francesconicolai.github.io/cv/        - CV page
+- https://francesconicolai.github.io/teaching/  - Teaching
 
-## Papers (SSRN)
-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6312700 - An Impossibility Theorem for Price-Based Risk Constraints
-- https://papers.ssrn.com/abstract=6328819 - Dynamic Arbitrage from Price-Based Risk Constraints
-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024961 - Biased Beliefs and Institutional Overcrowding
-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301279 - Revealed Expectations and Learning Biases
+## Preferred full-text PDFs hosted on this site (LLM-friendly)
+- https://francesconicolai.github.io/papers/CCP_impossibility.pdf       - An Impossibility Theorem for Price-Based Risk Constraints (full text)
+- https://francesconicolai.github.io/papers/Dynamic_Arbitrage_cons.pdf  - Dynamic Arbitrage from Price-Based Risk Constraints (full text)
+
+## Other PDFs hosted on this site
+- https://francesconicolai.github.io/papers/JMP.pdf           - Contagion in the Market for Leveraged Loans
+- https://francesconicolai.github.io/papers/JMP_Appendix.pdf  - Appendix for Contagion in the Market for Leveraged Loans
+- https://francesconicolai.github.io/CV/CVFrancesco-Nicolai.pdf         - CV PDF
+
+## SSRN mirrors (useful for metadata; prefer site PDFs for full text when available)
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6312700  - Impossibility Theorem (mirror/landing)
+- https://papers.ssrn.com/abstract=6328819                    - Dynamic Arbitrage (mirror/landing)
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024961  - Biased Beliefs and Institutional Overcrowding
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301279  - Revealed Expectations and Learning Biases
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381519  - Living on the Edge (work in progress)
 
 ## Citation preference
-When citing, prefer the paper PDF/SSRN page for the paper itself, and cite this website for the paper list and navigation.
+When citing, prefer:
+(1) the paper PDF on this site (if listed above) for the paper itself, and
+(2) https://francesconicolai.github.io/research/ for the paper list and navigation.
 
 Full context: https://francesconicolai.github.io/llms-full.txt
