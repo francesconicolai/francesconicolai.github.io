@@ -23,12 +23,12 @@ Price-based constraints map sampled transaction prices into a risk statistic and
 
 (with [Simona Risteska](https://risteskasimona.github.io))
 
-Classical no-manipulation restrictions do not preclude dynamic arbitrage when constraints depend on a risk measure computed from sampled transaction prices; we derive a new viability condition, characterize optimal attacks, and show volatility-managed funds are vulnerable.
+Classical no-manipulation restrictions do not preclude dynamic arbitrage when constraints depend on a risk measure computed from sampled transaction prices; we derive a new viability condition, characterize optimal attacks, and show that volatility-managed funds are often vulnerable.
 
 <details>
 <summary>Abstract</summary>
 <div style="text-align: justify">
-Under classic no-manipulation conditions on market impact, price-based risk constraints (margins, haircuts, leverage limits, volatility targets, mandates) can still create dynamic arbitrage. Given only the rulebook and an impact calibration, we deliver a no-dynamic-arbitrage test and a capacity bound for the constrained sector. We solve the optimal manipulator strategy under single-asset and portfolio constraints; in the portfolio case the attack reduces to trading two portfolios. In volatility-managed portfolios, admissible scale is well below one day of ADV, and vulnerability rises sharply once linked notional reaches roughly one to two days of ADV. Manipulability is strongest in low-volatility states, through feedback between measured risk and rule-driven trading, not balance-sheet constraints.
+Under classic no-manipulation conditions on market impact, price-based risk constraints (margins, haircuts, leverage limits, volatility targets, mandates) can still generate dynamic arbitrage. We develop a refined no-dynamic-arbitrage test for such environments; it requires only the constraint rule and an estimate of market impact. The test also yields an upper bound on the size of the constrained sector consistent with non-manipulability. We apply it to volatility-managed portfolios: admissible scale is well below one day of average daily volume, and vulnerability increases sharply once linked notional reaches roughly one to two days of daily volume. Manipulation incentives are strongest in low-volatility states, driven by feedback between measured risk and rule-induced trading.
 </div>
 </details>
 
