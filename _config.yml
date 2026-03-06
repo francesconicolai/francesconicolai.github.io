@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "Francesco Nicolai"
 title_separator          : "-"
 name                     : &name "Francesco Nicolai"
@@ -50,7 +50,6 @@ atom_feed:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
@@ -71,7 +70,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,7 +81,7 @@ author:
   avatar           : "A2110141.jpg"
   bio              : "Assistant Professor in Finance"
   location         : "Oslo, NO"
-  employer         : #"London School of Economics"
+  employer         : "BI Norwegian Business School"
   googlescholar    : 
   email            : francesco.nicolai@bi.no
   uri              :
@@ -93,11 +92,10 @@ author:
   facebook         :
   foursquare       :
   github           : "francesconicolai"
-  google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "francesconicolai"
   orcid            : 
   pinterest        :
   soundcloud       :
