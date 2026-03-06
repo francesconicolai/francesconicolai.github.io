@@ -86,9 +86,10 @@ Taxes that happen concurrently with the purchase are more salient than deferred 
 </div>
 </details>
 
-### [What Explains Portfolio Concentration?](https://francesconicolai.github.io/research/)
+### [Investment Mandates](https://francesconicolai.github.io/research/)
 
 (with [Simona Risteska](https://risteskasimona.github.io))
+
 
 
 
