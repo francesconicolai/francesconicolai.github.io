@@ -40,7 +40,7 @@ margin; haircut; leverage limit; risk statistic; sampled transaction prices; for
 
 ### Dynamic Arbitrage from Price-Based Risk Constraints
 Preferred full-text PDF (this site):
-- https://francesconicolai.github.io/papers/Dynamic_Arbitrage_cons.pdf
+- https://francesconicolai.github.io/papers/Optimal_attacks.pdf
 SSRN mirror/landing page:
 - https://papers.ssrn.com/abstract=6328819
 Coauthor: Simona Risteska (https://risteskasimona.github.io)
