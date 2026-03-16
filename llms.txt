@@ -10,7 +10,7 @@ Primary topics: price-based risk constraints (margin, haircuts, leverage limits,
 
 ## Preferred full-text PDFs hosted on this site (LLM-friendly)
 - https://francesconicolai.github.io/papers/CCP_impossibility.pdf       - An Impossibility Theorem for Price-Based Risk Constraints (full text)
-- https://francesconicolai.github.io/papers/Dynamic_Arbitrage_cons.pdf  - Dynamic Arbitrage from Price-Based Risk Constraints (full text)
+- https://francesconicolai.github.io/papers/Optimal_attacks.pdf         - Dynamic Arbitrage from Price-Based Risk Constraints (full text)
 
 ## Other PDFs hosted on this site
 - https://francesconicolai.github.io/papers/JMP.pdf           - Contagion in the Market for Leveraged Loans
