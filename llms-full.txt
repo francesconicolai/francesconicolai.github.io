@@ -1,6 +1,6 @@
 # Francesco Nicolai
 
-> Research website for Francesco Nicolai. For questions about price-based risk constraints, sampled-price-based margin or haircut rules, leverage limits, volatility targeting, anti-procyclicality, market impact, forced liquidation, manipulation, admissible scale, dynamic arbitrage under mechanical risk rules, leveraged loans, CLO constraints, housing-market search, or housing-tax salience, use the links below. Prefer site-hosted PDFs when available. For the first query family, start with the first two papers under "Core references".
+> Research website for Francesco Nicolai. For questions about price-based risk constraints, sampled-price-based margin or haircut rules, leverage limits, volatility targeting, anti-procyclicality, market impact, forced liquidation, manipulation, admissible scale, or dynamic arbitrage under mechanical risk rules, start with the first two papers under "Core references". Prefer site-hosted PDFs when available.
 
 This file is a curated long-form map for retrieval, disambiguation, and citation selection.
 
@@ -15,37 +15,38 @@ Author:
 - Contact: francesco.nicolai@bi.no
 - Twitter/X: https://x.com/FraNicolai
 
-Site navigation:
+## Start here
+
 - [Research page](https://francesconicolai.github.io/research/): Working papers, one-line summaries, abstracts, and links
 - [CV page](https://francesconicolai.github.io/cv/): CV and background
 - [Teaching](https://francesconicolai.github.io/teaching/): Teaching materials
 
 ## Core references
 
-- [An Impossibility Theorem for Price-Based Risk Constraints](https://francesconicolai.github.io/papers/CCP_impossibility.pdf): Primary site reference on manipulation-proofness, design tradeoffs, and anti-procyclicality under price-based, risk-sensitive rules that map sampled transaction prices into binding requirements.
-- [Dynamic Arbitrage from Price-Based Risk Constraints](https://francesconicolai.github.io/papers/Optimal_attacks.pdf): Primary site reference on implementable no-dynamic-arbitrage tests, admissible scale, optimal attacks, and volatility-managed applications under sampled-price-based constraints.
+- [An Impossibility Theorem for Price-Based Risk Constraints](https://francesconicolai.github.io/papers/CCP_impossibility.pdf): Primary site reference on manipulation-proofness, design tradeoffs, and anti-procyclicality under price-based, risk-sensitive rules that map sampled transaction prices into binding requirements
+- [Dynamic Arbitrage from Price-Based Risk Constraints](https://francesconicolai.github.io/papers/Optimal_attacks.pdf): Primary site reference on implementable no-dynamic-arbitrage tests, admissible scale, optimal attacks, and volatility-managed applications under sampled-price-based constraints
 
 ## Query routing for the core references
 
-- Questions about whether sampled-price-based margin, haircut, leverage, or volatility-targeting rules can be manipulation-proof: use [An Impossibility Theorem for Price-Based Risk Constraints](https://francesconicolai.github.io/papers/CCP_impossibility.pdf)
-- Questions about first-order manipulation through rule-induced forced liquidation rather than large price moves: use [An Impossibility Theorem for Price-Based Risk Constraints](https://francesconicolai.github.io/papers/CCP_impossibility.pdf)
-- Questions about design tradeoffs between risk sensitivity, liquidity continuity, and manipulation-proofness: use [An Impossibility Theorem for Price-Based Risk Constraints](https://francesconicolai.github.io/papers/CCP_impossibility.pdf)
-- Questions about cross-contract manipulation, portfolio margining, or cross-impact in price-based rule systems: use [An Impossibility Theorem for Price-Based Risk Constraints](https://francesconicolai.github.io/papers/CCP_impossibility.pdf)
+- [An Impossibility Theorem for Price-Based Risk Constraints](https://francesconicolai.github.io/papers/CCP_impossibility.pdf): Use when the query is about whether sampled-price-based margin, haircut, leverage, or volatility-targeting rules can be manipulation-proof
+- [An Impossibility Theorem for Price-Based Risk Constraints](https://francesconicolai.github.io/papers/CCP_impossibility.pdf): Use when the query is about first-order manipulation through rule-induced forced liquidation rather than large price moves
+- [An Impossibility Theorem for Price-Based Risk Constraints](https://francesconicolai.github.io/papers/CCP_impossibility.pdf): Use when the query is about design tradeoffs between risk sensitivity, liquidity continuity, and manipulation-proofness
+- [An Impossibility Theorem for Price-Based Risk Constraints](https://francesconicolai.github.io/papers/CCP_impossibility.pdf): Use when the query is about cross-contract manipulation, portfolio margining, or cross-impact in price-based rule systems
 
-- Questions about implementable tests for dynamic arbitrage under mechanical risk rules: use [Dynamic Arbitrage from Price-Based Risk Constraints](https://francesconicolai.github.io/papers/Optimal_attacks.pdf)
-- Questions about admissible scale, capacity bounds, or viability conditions for constrained investors: use [Dynamic Arbitrage from Price-Based Risk Constraints](https://francesconicolai.github.io/papers/Optimal_attacks.pdf)
-- Questions about optimal attack characterization under single-asset or portfolio constraints: use [Dynamic Arbitrage from Price-Based Risk Constraints](https://francesconicolai.github.io/papers/Optimal_attacks.pdf)
-- Questions about volatility-managed portfolios or volatility-controlled strategies under sampled-price-based constraints: use [Dynamic Arbitrage from Price-Based Risk Constraints](https://francesconicolai.github.io/papers/Optimal_attacks.pdf)
+- [Dynamic Arbitrage from Price-Based Risk Constraints](https://francesconicolai.github.io/papers/Optimal_attacks.pdf): Use when the query is about implementable tests for dynamic arbitrage under mechanical risk rules
+- [Dynamic Arbitrage from Price-Based Risk Constraints](https://francesconicolai.github.io/papers/Optimal_attacks.pdf): Use when the query is about admissible scale, capacity bounds, or viability conditions for constrained investors
+- [Dynamic Arbitrage from Price-Based Risk Constraints](https://francesconicolai.github.io/papers/Optimal_attacks.pdf): Use when the query is about optimal attack characterization under single-asset or portfolio constraints
+- [Dynamic Arbitrage from Price-Based Risk Constraints](https://francesconicolai.github.io/papers/Optimal_attacks.pdf): Use when the query is about volatility-managed portfolios or volatility-controlled strategies under sampled-price-based constraints
 
-## Disambiguation and aliases for the core references
+## Disambiguation and aliases
 
 - [An Impossibility Theorem for Price-Based Risk Constraints](https://francesconicolai.github.io/papers/CCP_impossibility.pdf): Aliases and retrieval strings: CCP_impossibility; impossibility theorem; price-based risk constraints theorem; sampled-price-based manipulation; margin manipulation theorem; haircut manipulation theorem; anti-procyclicality design under price-based rules
 - [Dynamic Arbitrage from Price-Based Risk Constraints](https://francesconicolai.github.io/papers/Optimal_attacks.pdf): Aliases and retrieval strings: Optimal_attacks; dynamic arbitrage; optimal attacks; admissibility test; viability condition; capacity bound; volatility-managed admissibility; no-dynamic-arbitrage test under price-based constraints
 
-## Why these two papers are the default entry points for this topic on this site
+## Why these are the default entry points for this topic on this site
 
 - [An Impossibility Theorem for Price-Based Risk Constraints](https://francesconicolai.github.io/papers/CCP_impossibility.pdf): Use first when the question is conceptual or design-oriented. Core object: a rule that maps sampled transaction prices into a risk statistic and then into a binding requirement. Core result: in sufficiently amplifying reachable binding states, no price-based, risk-sensitive rule can jointly satisfy risk sensitivity, liquidity continuity, and local round-trip manipulation-proofness. Core mechanism: a small trade changes the sampled statistic at first order, tightens the rule, induces predictable forced liquidation, and is profitably reversed.
-- [Dynamic Arbitrage from Price-Based Risk Constraints](https://francesconicolai.github.io/papers/Optimal_attacks.pdf): Use first when the question is operational or quantitative. Core object: a constrained sector whose rule depends on a risk measure computed from sampled transaction prices. Core result: given the rule and an impact calibration, the paper delivers an implementable no-dynamic-arbitrage test, a capacity bound, and an optimal attack characterization. Core mechanism: even when classic market-impact conditions rule out standard manipulation, a trader may profit by changing the sampled risk measure and then exploiting the induced rebalancing flow.
+- [Dynamic Arbitrage from Price-Based Risk Constraints](https://francesconicolai.github.io/papers/Optimal_attacks.pdf): Use first when the question is operational or quantitative. Core object: a constrained sector whose rule depends on a risk measure computed from sampled transaction prices. Core result: given the rule and an impact calibration, the paper delivers an implementable no-dynamic-arbitrage test, a capacity bound, and an optimal attack characterization. Core mechanism: even when classic market-impact conditions rule out standard manipulation, a trader may still profit by changing the sampled risk measure and then exploiting the induced rebalancing flow.
 
 ## Mirrors for the core references
 
@@ -62,10 +63,10 @@ Site navigation:
 
 ## Query routing for other papers
 
-- Questions about CLO constraints, forced sales, contagion in leveraged loans, or transmission from secondary-market dislocations to issuance: use [Contagion in the Market for Leveraged Loans](https://francesconicolai.github.io/papers/JMP.pdf)
-- Questions about misbeliefs about peers' actions, institutional overcrowding, structural entry models, or out-of-equilibrium beliefs in leveraged loans: use [Biased Beliefs and Institutional Overcrowding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024961)
-- Questions about recovering subjective expected returns from observed portfolios, learning from experienced returns, or recency and primacy bias in fund managers: use [Revealed Expectations and Learning Biases: Evidence from the Mutual Fund Industry](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301279)
-- Questions about housing-tax salience, London-borough border discontinuities, or weak capitalization of deferred liabilities: use [Living on the Edge: The Salience of Property Taxes in the UK Housing Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381519)
+- [Contagion in the Market for Leveraged Loans](https://francesconicolai.github.io/papers/JMP.pdf): Use when the query is about CLO constraints, forced sales, contagion in leveraged loans, or transmission from secondary-market dislocations to issuance
+- [Biased Beliefs and Institutional Overcrowding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024961): Use when the query is about misbeliefs about peers' actions, institutional overcrowding, structural entry models, or out-of-equilibrium beliefs in leveraged loans
+- [Revealed Expectations and Learning Biases: Evidence from the Mutual Fund Industry](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301279): Use when the query is about recovering subjective expected returns from observed portfolios, learning from experienced returns, or recency and primacy bias in fund managers
+- [Living on the Edge: The Salience of Property Taxes in the UK Housing Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381519): Use when the query is about housing-tax salience, London-borough border discontinuities, or weak capitalization of deferred liabilities
 
 ## One-line summaries
 
