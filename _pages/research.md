@@ -32,6 +32,19 @@ Under classic no-manipulation conditions on market impact, price-based risk cons
 </div>
 </details>
 
+### [Contagion in The Market for Leveraged Loans](https://francesconicolai.github.io/papers/JMP.pdf)
+
+CLO constraints trigger forced sales that depress secondary-market prices and transmit shocks into primary-market borrowing costs.
+
+<details>
+<summary>Abstract</summary>
+<div style="text-align: justify">
+Collateralized Loan Obligations (CLOs) spread shocks in the market for leveraged loans. I document that, in order to satisfy constraints based on the par value of their assets, CLOs become forced sellers of high quality securities when hit by negative shocks to otherwise unrelated securities. Loans sold for non fundamental reasons trade at depressed prices for up to nine months after the shock. The effect cannot be explained by selection on ex-ante or ex-post loan characteristics. A large fraction of the dislocation in secondary markets is transmitted to the market of issuance: shocked companies due to refinance their loans substitute away from institutional tranches towards other types of securities. The substitution is imperfect causing an increase in the cost of borrowing.
+</div>
+</details>
+
+[Appendix](https://francesconicolai.github.io/papers/JMP_Appendix.pdf)
+
 ### [Biased Beliefs and Institutional Overcrowding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024961)
 
 (with [Simona Risteska](https://risteskasimona.github.io))
@@ -57,19 +70,6 @@ Inverting mutual fund portfolios recovers perceived expected returns and reveals
 By inverting the optimal portfolios of mutual fund managers in a fairly general setting, which allows us to partial out the effect of risk aversion and hedging demands, we provide an estimate of perceived expected excess returns and show that they are significantly affected by experienced returns. The effect of past returns is non-monotone: we provide reduced-form and structural evidence of managers displaying recency and primacy bias. Finally, we estimate an average coefficient of relative risk aversion close to unity.
 </div>
 </details>
-
-### [Contagion in The Market for Leveraged Loans](https://francesconicolai.github.io/papers/JMP.pdf)
-
-CLO constraints trigger forced sales that depress secondary-market prices and transmit shocks into primary-market borrowing costs.
-
-<details>
-<summary>Abstract</summary>
-<div style="text-align: justify">
-Collateralized Loan Obligations (CLOs) spread shocks in the market for leveraged loans. I document that, in order to satisfy constraints based on the par value of their assets, CLOs become forced sellers of high quality securities when hit by negative shocks to otherwise unrelated securities. Loans sold for non fundamental reasons trade at depressed prices for up to nine months after the shock. The effect cannot be explained by selection on ex-ante or ex-post loan characteristics. A large fraction of the dislocation in secondary markets is transmitted to the market of issuance: shocked companies due to refinance their loans substitute away from institutional tranches towards other types of securities. The substitution is imperfect causing an increase in the cost of borrowing.
-</div>
-</details>
-
-[Appendix](https://francesconicolai.github.io/papers/JMP_Appendix.pdf)
 
 ## Work in Progress
 
