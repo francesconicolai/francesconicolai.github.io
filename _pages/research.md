@@ -19,16 +19,16 @@ Price-based risk rules map sampled transaction prices into measured risk and the
 </div>
 </details>
 
-### [Dynamic Arbitrage from Price-Based Risk Constraints](https://papers.ssrn.com/abstract=6328819)
+### [How Big Can Mechanical Rebalancing Get?](https://papers.ssrn.com/abstract=6328819)
 
 (with [Simona Risteska](https://risteskasimona.github.io))
 
-Classical no-manipulation restrictions do not preclude dynamic arbitrage when constraints depend on a risk measure computed from sampled transaction prices; we derive a new viability condition, characterize optimal attacks, and show that volatility-managed funds are often vulnerable.
+How big can a sector of mechanical rebalancers get before the market is manipulable? We derive an implementable test from the disclosed rule and a market-impact estimate alone, and apply it to volatility-controlled indices in structured products and indexed annuities: at one day of average daily volume, the no-manipulation condition fails in 81-98% of stress states.
 
 <details>
 <summary>Abstract</summary>
 <div style="text-align: justify">
-Under classic no-manipulation conditions on market impact, price-based risk constraints (margins, haircuts, leverage limits, volatility targets, mandates) can still generate dynamic arbitrage. We develop a refined no-dynamic-arbitrage test for such environments; it requires only the constraint rule and an estimate of market impact. The test also yields an upper bound on the size of the constrained sector consistent with non-manipulability. We apply it to volatility-managed portfolios: admissible scale is well below one day of average daily volume, and vulnerability increases sharply once linked notional reaches roughly one to two days of daily volume. Manipulation incentives are strongest in low-volatility states, driven by feedback between measured risk and rule-induced trading.
+Mechanical rebalancing maps recent transaction prices into future trades, target exposures, or binding constraints. It appears in volatility targets, risk-control overlays, leverage limits, collateral haircuts, and margin schedules. Once enough capital follows such rules, trades today move the prices that set tomorrow's trades. Standard no-manipulation conditions for market impact miss this feedback. We derive a capacity test using only the rule and a market-impact estimate. The test asks whether a trader can move the rule's input and profit from the induced rebalancing. As an example, we apply the test to volatility-managed portfolios. Safe capacity is below 0.11 days of average daily volume, or 0.09% of the underlying market. At one day of volume, profitable round trips exist in 84% of stress states; at two days, in 98%. Capacity is tightest in calm markets, where measured risk is easiest to move.
 </div>
 </details>
 
