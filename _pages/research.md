@@ -8,17 +8,6 @@ description: "Research on margin, haircuts, leverage limits, volatility targetin
 {% include base_path %}
 
 ## Working Papers
-### [An Impossibility Theorem for Price-Based Risk Constraints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6312700)
-
-Risk-sensitive rules that map transaction prices into binding requirements generically create first-order manipulation incentives.
-
-<details>
-<summary>Abstract</summary>
-<div style="text-align: justify">
-Price-based risk rules map sampled transaction prices into measured risk and then into binding requirements. We prove a local impossibility theorem: in reachable binding states with sufficiently strong amplification, no such rule can simultaneously remain (i) risk-sensitive, (ii) preserve liquidity continuity, and (iii) eliminate profitable round-trip manipulation. Unlike classic manipulation, the mechanism does not require large trades, large price moves, or making a slack constraint bind. A small trade can alter the prices used by the rule, tighten requirements, induce predictable forced selling, and then be reversed profitably. The result holds with continuous trading between discrete measurement and reset dates and survives strategic responses by constrained investors. Fragility is greatest when realized risk is low.
-</div>
-</details>
-
 ### [How Big Can Mechanical Rebalancing Get?](https://papers.ssrn.com/abstract=6328819)
 
 (with [Simona Risteska](https://risteskasimona.github.io))
@@ -29,6 +18,17 @@ How big can a sector of mechanical rebalancers get before the market is manipula
 <summary>Abstract</summary>
 <div style="text-align: justify">
 Mechanical rebalancing maps recent transaction prices into future trades, target exposures, or binding constraints. It appears in volatility targets, risk-control overlays, leverage limits, collateral haircuts, and margin schedules. Once enough capital follows such rules, trades today move the prices that set tomorrow's trades. Standard no-manipulation conditions for market impact miss this feedback. We derive a capacity test using only the rule and a market-impact estimate. The test asks whether a trader can move the rule's input and profit from the induced rebalancing. As an example, we apply the test to volatility-managed portfolios. Safe capacity is below 0.11 days of average daily volume, or 0.09% of the underlying market. At one day of volume, profitable round trips exist in 84% of stress states; at two days, in 98%. Capacity is tightest in calm markets, where measured risk is easiest to move.
+</div>
+</details>
+
+### [An Impossibility Theorem for Price-Based Risk Constraints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6312700)
+
+Risk-sensitive rules that map transaction prices into binding requirements generically create first-order manipulation incentives.
+
+<details>
+<summary>Abstract</summary>
+<div style="text-align: justify">
+Price-based risk rules map sampled transaction prices into measured risk and then into binding requirements. We prove a local impossibility theorem: in reachable binding states with sufficiently strong amplification, no such rule can simultaneously remain (i) risk-sensitive, (ii) preserve liquidity continuity, and (iii) eliminate profitable round-trip manipulation. Unlike classic manipulation, the mechanism does not require large trades, large price moves, or making a slack constraint bind. A small trade can alter the prices used by the rule, tighten requirements, induce predictable forced selling, and then be reversed profitably. The result holds with continuous trading between discrete measurement and reset dates and survives strategic responses by constrained investors. Fragility is greatest when realized risk is low.
 </div>
 </details>
 
