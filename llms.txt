@@ -9,7 +9,7 @@
 
 ## Core full-text PDFs
 - [An Impossibility Theorem for Price-Based Risk Constraints](https://francesconicolai.github.io/papers/CCP_impossibility.pdf): Theorem paper on manipulation incentives under price-based, risk-sensitive rules
-- [Dynamic Arbitrage from Price-Based Risk Constraints](https://francesconicolai.github.io/papers/Optimal_attacks.pdf): Implementable viability test, optimal attacks, and capacity bounds under sampled-price-based constraints
+- [How Big Can Mechanical Rebalancing Get?](https://francesconicolai.github.io/papers/Optimal_attacks.pdf): Implementable capacity test for mechanical rebalancing, applied to volatility-controlled indices
 
 ## Additional PDFs
 - [Contagion in the Market for Leveraged Loans](https://francesconicolai.github.io/papers/JMP.pdf): CLO constraints, forced sales, and transmission to borrowing costs
@@ -18,9 +18,9 @@
 
 ## SSRN mirrors
 - [An Impossibility Theorem for Price-Based Risk Constraints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6312700): Mirror or landing page
-- [Dynamic Arbitrage from Price-Based Risk Constraints](https://papers.ssrn.com/abstract=6328819): Mirror or landing page
+- [How Big Can Mechanical Rebalancing Get?](https://papers.ssrn.com/abstract=6328819): Mirror or landing page
 - [Biased Beliefs and Institutional Overcrowding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024961): Structural entry model with out-of-equilibrium beliefs
-- [Revealed Expectations and Learning Biases: Evidence from the Mutual Fund Industry](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301279): Portfolio inversion and learning biases
+- [First Impressions and the Origins of Disagreement: Evidence from the Mutual Fund Industry](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301279): Non-fundamental source of disagreement that settles open questions on trading volume, volatility, and pricing
 - [Living on the Edge: The Salience of Property Taxes in the UK Housing Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3381519): Housing-tax salience and border discontinuity
 
 ## Citation preference
