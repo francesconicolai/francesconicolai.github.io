@@ -58,16 +58,16 @@ Understanding the determinants of overcrowding behaviour is challenging due to t
 </div>
 </details>
 
-### [Revealed Expectations and Learning Biases: Evidence from the Mutual Fund Industry](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301279)
+### [First Impressions and the Origins of Disagreement: Evidence from the Mutual Fund Industry](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301279)
 
 (with [Simona Risteska](https://risteskasimona.github.io))
 
-Inverting mutual fund portfolios recovers perceived expected returns and reveals non-monotone learning biases tied to experienced returns.
+We recover a non-fundamental source of disagreement, tied to when each manager first bought a stock, and use it to settle three open questions: why investors trade against each other, why disagreement raises volatility without news, and when disagreement is priced.
 
 <details>
 <summary>Abstract</summary>
 <div style="text-align: justify">
-By inverting the optimal portfolios of mutual fund managers in a fairly general setting, which allows us to partial out the effect of risk aversion and hedging demands, we provide an estimate of perceived expected excess returns and show that they are significantly affected by experienced returns. The effect of past returns is non-monotone: we provide reduced-form and structural evidence of managers displaying recency and primacy bias. Finally, we estimate an average coefficient of relative risk aversion close to unity.
+How much mutual fund managers disagree about a stock depends in large part on when each of them first purchased it. We invert their holdings into perceived expected returns: a manager's belief anchors to the return earned at her first purchase. Because they buy the same stock at different times, this first impression is the largest measured component of cross-manager disagreement, explaining about a tenth of its cross-sectional variation, an order of magnitude more than analyst-forecast dispersion. The disagreement is non-fundamental: it forecasts future volatility but not earnings surprises, while analyst dispersion does the reverse. It drives trading volume, as managers trade against one another; where short-sale constraints bind it is priced, the most disagreed-upon stocks underperforming by roughly ten percent a year.
 </div>
 </details>
 
