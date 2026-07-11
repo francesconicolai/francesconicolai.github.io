@@ -12,7 +12,7 @@ description: "Research on margin, haircuts, leverage limits, volatility targetin
 
 (with [Simona Risteska](https://risteskasimona.github.io))
 
-How big can a sector of mechanical rebalancers get before the market is manipulable? We derive an implementable test from the disclosed rule and a market-impact estimate alone, and apply it to volatility-controlled indices in structured products and indexed annuities: at one day of average daily volume, the no-manipulation condition fails in 81-98% of stress states.
+How big can a sector of mechanical rebalancers get before the market is manipulable? We derive an implementable test from the disclosed rule and a market-impact estimate alone, and apply it to volatility-controlled indices in structured products and indexed annuities: safe capacity is below 0.11 days of average daily volume (about 0.09% of the underlying market), and at one day of volume the no-manipulation condition fails in 81-98% of stress states.
 
 <details>
 <summary>Abstract</summary>
