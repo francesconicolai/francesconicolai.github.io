@@ -19,13 +19,4 @@ I am an Assistant Professor in Finance at BI Norwegian Business School in Oslo.
 - [Biased Beliefs and Institutional Overcrowding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024961)
 
 [See all research &rarr;](/research/)
----
-permalink: /
-title: "Francesco Nicolai"
-excerpt: "Francesco Nicolai"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
